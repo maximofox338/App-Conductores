@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.rideunify.domain.filter.DefaultFilterPolicyTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-06-25T09:04:31" hostname="MAXIMO" time="0.017">
+  <properties/>
+  <testcase name="recommendsReviewWhenPickupTimeIsHigh" classname="com.rideunify.domain.filter.DefaultFilterPolicyTest" time="0.015"/>
+  <testcase name="recommendsReviewWhenConfidenceIsLow" classname="com.rideunify.domain.filter.DefaultFilterPolicyTest" time="0.001"/>
+  <testcase name="recommendsAcceptForClearOffer" classname="com.rideunify.domain.filter.DefaultFilterPolicyTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,4 @@
+<resources>
+    <string name="trips_title">Historial</string>
+    <string name="trips_body">Los viajes aceptados o rechazados se guardan localmente. La lista completa se conectará a Room en la próxima iteración de UI.</string>
+</resources>

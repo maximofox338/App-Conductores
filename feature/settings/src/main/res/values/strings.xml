@@ -1,0 +1,4 @@
+<resources>
+    <string name="settings_title">Ajustes</string>
+    <string name="settings_body">Los filtros, permisos y comportamiento de Waze se configurarán desde acá. En el MVP no se abre Waze automáticamente.</string>
+</resources>

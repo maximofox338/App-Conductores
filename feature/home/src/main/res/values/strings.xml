@@ -1,0 +1,22 @@
+<resources>
+    <string name="home_title">RideUnify</string>
+    <string name="service_status_title">Servicio de asistencia</string>
+    <string name="service_status_body">Activá el servicio de accesibilidad para detectar viajes de Uber y Cabify. RideUnify solo actúa cuando tocás aceptar o rechazar.</string>
+    <string name="no_offer_title">Sin viajes detectados</string>
+    <string name="no_offer_body">Cuando Uber o Cabify muestren una solicitud, aparecerá acá con la recomendación y los controles.</string>
+    <string name="current_offer_title">Viaje entrante</string>
+    <string name="pickup_label">Búsqueda</string>
+    <string name="destination_label">Destino</string>
+    <string name="fare_label">Tarifa estimada</string>
+    <string name="distance_label">Distancia</string>
+    <string name="pickup_time_label">Tiempo al pasajero</string>
+    <string name="confidence_label">Confianza del parser</string>
+    <string name="decision_label">Recomendación</string>
+    <string name="accept_action">Aceptar</string>
+    <string name="decline_action">Rechazar</string>
+    <string name="open_waze_action">Abrir en Waze</string>
+    <string name="action_pending">Enviando acción…</string>
+    <string name="latest_result_label">Último resultado</string>
+    <string name="clear_offer_action">Limpiar</string>
+    <string name="unknown_value">No disponible</string>
+</resources>
